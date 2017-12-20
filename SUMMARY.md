@@ -4,8 +4,6 @@
 * [第三终端](chapter1.md)
   * [药品采购系统](chapter1/yao-pin-cai-gou-xi-tong.md)
   * [药品营销系统](chapter1/yao-pin-xiao-shou-xi-tong.md)
-    * [销售时间](chapter1/yao-pin-xiao-shou-xi-tong/yao-pin-xiao-shou-shi-jian.md)
-    * [销售数量](chapter1/yao-pin-xiao-shou-xi-tong/yao-pin-xiao-shou-shu-liang.md)
   * [药品线上商城](chapter1/yao-pin-xian-shang-shang-cheng.md)
 * [医药公司](yi-yao-gong-si.md)
   * [诊所配送系统](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong.md)
