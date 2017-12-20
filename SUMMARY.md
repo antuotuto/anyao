@@ -15,5 +15,5 @@
 * [药品厂家](chang-jia.md)
   * [药品销售路径管理系统](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong.md)
     * [产品目录](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong/chan-pin-mu-lu.md)
-      * [药品](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong/chan-pin-mu-lu/yao-pin-chang-jia.md)
+      * [销售地区分析](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong/chan-pin-mu-lu/yao-pin-chang-jia.md)
 
