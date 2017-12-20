@@ -1,4 +1,4 @@
 # 药店采购设计
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+设计药品采购系统的初衷是为了医药公司更好的管理好自己公司
 
