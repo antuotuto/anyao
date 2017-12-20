@@ -10,7 +10,6 @@
     * [药品库存后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/yao-pin-ku-cun-hou-tai.md)
     * [销售订单后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/xiao-shou-ding-dan-hou-tai.md)
     * [订单分析后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/ding-dan-fen-xi-hou-tai.md)
-      * [药品销售地址](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/ding-dan-fen-xi-hou-tai/yao-pin-xiao-shou-di-zhi.md)
     * [采购商管理](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/cai-gou-shang-guan-li.md)
   * [诊所商城系统](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-shang-cheng-xi-tong.md)
     * [个人搜索关键词](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-shang-cheng-xi-tong/ge-ren-sou-suo-guan-jian-ci.md)
