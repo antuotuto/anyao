@@ -8,6 +8,12 @@
 * [私立医院](yi-yuan-ye-wu.md)
 * [医药公司](yi-yao-gong-si.md)
   * [医药公司诊所配送系统](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong.md)
+    * [药品库存后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/yao-pin-ku-cun-hou-tai.md)
+    * [销售订单后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/xiao-shou-ding-dan-hou-tai.md)
+    * [订单分析后台](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/ding-dan-fen-xi-hou-tai.md)
+    * [采购商管理](yi-yao-gong-si/yi-yao-gong-si-zhen-suo-pei-song-xi-tong/cai-gou-shang-guan-li.md)
 * [药品厂家](chang-jia.md)
   * [药品销售路径管理系统](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong.md)
+    * [产品目录](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong/chan-pin-mu-lu.md)
+      * [药品](chang-jia/yao-pin-xiao-shou-lu-jing-guan-li-xi-tong/chan-pin-mu-lu/yao-pin-chang-jia.md)
 
