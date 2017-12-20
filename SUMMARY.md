@@ -4,6 +4,8 @@
 * [第三终端](chapter1.md)
   * [药品采购系统](chapter1/yao-pin-cai-gou-xi-tong.md)
   * [药品营销系统](chapter1/yao-pin-xiao-shou-xi-tong.md)
+    * [药品销售时间](chapter1/yao-pin-xiao-shou-xi-tong/yao-pin-xiao-shou-shi-jian.md)
+    * [药品销售数量](chapter1/yao-pin-xiao-shou-xi-tong/yao-pin-xiao-shou-shu-liang.md)
   * [药品线上商城](chapter1/yao-pin-xian-shang-shang-cheng.md)
 * [私立医院](yi-yuan-ye-wu.md)
   * [医院产品维护](yi-yuan-ye-wu/yi-yuan-chan-pin-wei-hu.md)
